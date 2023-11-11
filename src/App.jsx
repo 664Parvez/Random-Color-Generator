@@ -75,7 +75,9 @@ function App() {
             </div>
           </div>
         </div>
-
+          <div className="text-center copy-write">
+            <p>Create By - Parvez Rabbi</p>
+          </div>
       </div>
     </>
   )
